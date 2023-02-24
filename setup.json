@@ -1,0 +1,8 @@
+{
+    "port": "COM1",
+    "rate": 9600,
+    "mqtt": "mqtt://scrappyiot.in:1883",
+    "tout": "robot/out25",
+    "tin": "robot/in",
+    "qos": 2
+}
